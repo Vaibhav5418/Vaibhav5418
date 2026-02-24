@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am looking to collaborate On innovative web apps, startup ideas, and impactful full-stack or UI/UX projects.<br>🤝 I am looking for help with Scaling applications, advanced backend architecture, and performance optimization.<br>🌱 I am currently learning Advanced full-stack development, system design, and modern UI animation techniques.<br>💬 Ask me about MERN stack, frontend design, APIs, project architecture, and building real-world dev projects.<br>⚡ Fun fact I love mixing creative UI design with logic — making apps both powerful and visually aesthetic.
+🔭 I am looking to collaborate On innovative web apps, startup ideas, and impactful full-stack or UI/UX projects.<br>🤝 I am looking for help with Scaling applications, advanced backend architecture, and performance optimization.<br>🌱 I am currently learning Advanced full-stack development, system design, and modern UI animation techniques.<br>💬 Ask me about MERN stack, frontend design, APIs, project architecture, and building real-world dev projects.<br>⚡ Fun fact: I love mixing creative UI design with logic — making apps both powerful and visually aesthetic.
 
 
 ## 🌐 Socials:
